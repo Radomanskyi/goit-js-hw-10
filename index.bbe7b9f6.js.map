@@ -1,0 +1,1 @@
+{"mappings":"AAGAA,MAAMC","sources":["src/index.js"],"sourcesContent":["import './css/styles.css';\n\nconst DEBOUNCE_DELAY = 300;\nfetch(URL);\n"],"names":["fetch","URL"],"version":3,"file":"index.bbe7b9f6.js.map"}
